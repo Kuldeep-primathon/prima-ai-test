@@ -6,7 +6,7 @@ const DateComponent=()=>{
         {/* here is the comment */}
         <div>
             <p><span>Time is {date.getHours()+":"+date.getMinutes()+":"+date.getSeconds()}</span></p>
-            
+            <img src=""/>
         
         </div>
         </>
