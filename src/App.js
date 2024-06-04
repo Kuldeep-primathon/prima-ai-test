@@ -7,8 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <HomePage/>
-      <DateComponent/>
+  Hello world
     </div>
   );
 }
